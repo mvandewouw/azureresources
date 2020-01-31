@@ -1,0 +1,11 @@
+# AZ-103
+* [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF)
+* [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z)
+* [https://www.microsoft.com/handsonlabs/selfpacedlabs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
+* [https://docs.microsoft.com/en-us/azure/](https://docs.microsoft.com/en-us/azure/)
+* [https://azurecitadel.com/](https://azurecitadel.com/)
+* [https://microsoftlearning.github.io/20533-ImplementingMicrosoftAzureInfrastructureSolutions/](https://microsoftlearning.github.io/20533-ImplementingMicrosoftAzureInfrastructureSolutions/)
+* [http://azurefaq.ca/](http://azurefaq.ca/)
+* [https://ravikirans.com/az-103-study-guide/](https://ravikirans.com/az-103-study-guide/)
+* [https://www.microsoft.com/en-ca/sites/clouddigitalseries/](https://www.microsoft.com/en-ca/sites/clouddigitalseries/)
+* [https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
